@@ -8,8 +8,8 @@
 
 namespace offsets
 {
-	constexpr ::std::ptrdiff_t dwLocalPlayer = 0xDB35EC;
-	constexpr ::std::ptrdiff_t dwClientState = 0x58BFC4;
+	constexpr ::std::ptrdiff_t dwLocalPlayer = 0xDB25DC;
+	constexpr ::std::ptrdiff_t dwClientState = 0x58CFC4;
 	constexpr ::std::ptrdiff_t dwClientState_ViewAngles = 0x4D90;
 	constexpr ::std::ptrdiff_t m_aimPunchAngle = 0x303C;
 	constexpr ::std::ptrdiff_t m_iShotsFired = 0x103E0;
